@@ -8,8 +8,8 @@ This is part of the ecolicense.org and the maybe future ecolicense fundation? Ef
 Fast software is cheaper and more ecological, pushing polluting/inneficient companies to pay for quality software, will push their maths/inversions to the ecological/innovative path
 
 ## How
-We will publish a index with per industry, per year, set of umbrals that your project license can adhere.
-We are a license wrapper!
+We will publish a index with per industry, per year, set of umbrals that your project license can adhere.  
+We are a license wrapper!  
 Within this umbrals, industries can use your free software with the license that you want to use MIT, GPLV3, Commercial...
 Exceed the umbrals, you can apply restrictions, like a license payment, donation, or requirements of an organization perform a green action, inversion or donation.
 
