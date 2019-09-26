@@ -2,7 +2,7 @@
 WIP of a license to distribute software in a reasonable manner with (for now) our only planet.
 
 ## Description
-This is part of the ecolicense.org and the maybe future ecolicense fundation? effort to provide a clean and sustainable way to software makers across the globe to make an impact in the world with it software.
+This is part of the ecolicense.org and the maybe future ecolicense fundation? Effort to provide a clean and sustainable way to software makers across the globe to make an impact in the world with it software.
 
 ## Fundamentals
 Fast software is cheaper and more ecological, pushing polluting/inneficient companies to pay for quality software, will push their maths/inversions to the ecological/innovative path
