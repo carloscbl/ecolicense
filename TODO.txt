@@ -1,0 +1,8 @@
+# Pending work:
+
+# Investigate other licenses to develop de text
+# Develop base license text
+# As the license change with the published index, there should be a mechanism to generate license files that are
+  versionables and generable by a simply checking of the allows and deny
+# Generate a public contributible, table with the index of the restrictions and umbrals to not be breached
+# Investigate how to handle dual licensing or even licensing wrapping, for example MIT and ECO depending on the use
