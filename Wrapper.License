@@ -5,16 +5,26 @@ The following text is intended as a root of a tree of posible licenses under dif
 ecolicense wrapper V0.1
 #This text CANNOT be used alone, it need to be composed into a single file with the composition of the whole text.
 
-1º By using this software and its license, do you agree the follow terms and conditions:
+By using this software and its license, do you agree the follow terms and conditions:
 
-2º You agree to use in exclusively in one of the follow circustances:
+1º This text overrides any posible sublicense referenced in this text, this means this is on top of the rest of licenses
 
-%INDEX_MODALITIES%
+2º You agree to meet the requirements of the ecolicense wrapper and ecolicense applying always this over other sublicense, even in contradiction.
 
-3º The unit of usage is measured by: 
-%COMERTIAL_UNITS%
-%COMPANY_NAME%
-%INDUSTRY%
-%COMPANY_NAME_AND_SUBSIDIARIES%
+2ºA Even if one of the sublicenses allow redistributuon, sublicensing, forking, branching, or other kind of change of propietary (or freeing), it still
+    have to use the license wrapper and the ecolicense. For the terms of the ecolicense params.
+    This means if you fork the software by using the secondary license text, and it allows you to change license,
+    you would but under the wrapper and ecolicense, and the new license.
 
-%MODALITIES_SUBTEXTS%
+3º The order of restriction is the follow:
+
+    -1º This text (ecolicense wrapper).
+    -2º ecolicense
+    -3º %OTHER_LICENSE%
+    -4º ...
+
+3ºA This means if the 3º gives you freedom, but 2º (ecolicense) deny it, ecolicense applys.
+
+%ECOLICENSE_TEXT%
+
+%SUBLICENSES%
